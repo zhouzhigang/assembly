@@ -6,6 +6,11 @@ Assembly Language Toturial, Resources
 
 ### Computer Organization
 
+## [First Programs](first/README.md)
+Overview of basic structure of assembly-language programs.
+And how to build it?
+* [exit.s](first/exit.s)
+* [maximum.s](first/maximum.s)
 
 ## Resources
 * [Assembly language - WikiPedia](http://en.wikipedia.org/wiki/Assembly_language)
